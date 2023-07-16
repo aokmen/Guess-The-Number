@@ -1,6 +1,6 @@
 # Guess-The-Number
 <h3>visit: https://aokmen.github.io/Guess-The-Number</h3>
-<img alt="alt_text" src="./guess.gif"/>
+<img alt="alt_text" src="./guess2.gif"/>
 ---
 ## Description:
 
